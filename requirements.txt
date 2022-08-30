@@ -1,0 +1,10 @@
+pip install mttkinter
+pip install pynput
+pip install pyautogui
+pip install matplotlib
+pip install opencv-python
+pip install aircv
+pip install paddleocr
+pip install paddlepaddle -i https://mirror.baidu.com/pypi/simple
+pip install pyinstaller
+s
